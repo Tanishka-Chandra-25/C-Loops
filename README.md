@@ -6,10 +6,21 @@ This repositary contains my C programming practice program as I build a strong f
 
 ## Programs
 1. Print 1-100
-2. Sum of first N number
+2. Sum of First N Number
 3. Multiplication Table
 4. Factorial
 5. Fibonacci Series
+6. Reverse a Number
+7. Palindrome Number
+8. Armstrong Number
+9. Prime Number
+10. Prime Number in a Range
+11. Perfect Number
+12. Strong Number
+13. Count Digits
+14. Sum of Digits
+15. Product of Digits
+
 
 ## How to Compile
 '''bash
