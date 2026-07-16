@@ -16,7 +16,9 @@ This repositary contains my C programming practice program as I build a strong f
 9. Prime Number
 10. Count Digits
 11. Sum of Digits
-15. Product of Digits
+12. Product of Digits
+13. Perfect Number
+
 
 
 ## How to Compile
